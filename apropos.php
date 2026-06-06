@@ -1,0 +1,137 @@
+<?php include('include/header.php');?>
+<!-- main header end -->
+
+<!-- Sub banner start -->
+<div class="sub-banner overview-bgi">
+    <div class="container">
+        <div class="breadcrumb-area">
+            <h1>A propos</h1>
+            <ul class="breadcrumbs">
+                <li><a href="index.html">Home</a></li>
+                <li class="active">A propos de Kodokan</li>
+            </ul>
+        </div>
+    </div>
+</div>
+<!-- Sub banner end -->
+
+<!-- About us start -->
+<div class="about-us content-area-8 bg-white">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-5">
+                <div class="properties-service-v">
+                    <img src="assets/img/th.jpg" alt="admin" class="img-fluid">
+                </div>
+            </div>
+            <div class="col-lg-7 align-self-center">
+                <div class="about-text more-info">
+                    <h3>Pourquoi Kodokan?</h3>
+                    <div id="faq" class="faq-accordion">
+                        <div class="card m-b-0">
+                            <div class="card-header">
+                                <a class="card-title collapsed" data-toggle="collapse" data-parent="#faq" href="#collapse1">
+                                    Histoire
+                                </a>
+                            </div>
+                            <div id="collapse1" class="card-block collapse">
+                            <img src="assets/img/logo.png">
+                                <p>
+                                    Qui est Jigoro Kano?Née en 1860 et mort en 1938. En 1882 il a fonde le premier dojo et donner comme nom "Kodokan Judo" avec comme méthode
+                                    appliquer "Kano" pour donner une différence entre ses enseignements et celle des autres école de jujutsu qui existais déjà.
+                                    Il est aussi pere fondateur du Judo</p>
+
+                                    <p>Kodokan est un mot japonais qui signifie litteralement "Ecole pour étude de la voie",le premier club à avoir porter le nom de kodokan fut 
+                                    celle de Jigoro Kano en 1882.</p>
+                                    <hr>
+
+                                    <p>Club Kodokan choc,fut crée par grand maitre Coeur de Lion du vrai nom Kevine Kisimbi,3ieme Dan dans le discipline du ju-jitsu et bien d'autre discipline comme
+                                        le Judo,MMA,Boxe et le karate.Le but de notre club est de transmettre les bonnes pratiques, en propageant les valeurs de ce sport,le club forme des athletes competents,
+                                        mais aussi des individus respectueux, integres et courageux.
+                                    </p>
+                                        <img src="assets/img/logo.png">
+                                    <p>
+                                        Maitre coeur de lion vice champion du MMA Congolaise,et plus des titres
+                                    </p>
+
+
+                            </div>
+
+                            <div class="card-header">
+                                <a class="card-title collapsed" data-toggle="collapse" data-parent="#faq" href="#collapse2">
+                                    Pourquoi choisir le club kodokan choc?
+                                </a>
+                            </div>
+                            <div id="collapse2" class="card-block collapse">
+                                <p>
+                                    <ul>
+                                        <li>* Un dojo de 10m dans un grand complexe sportif</li>
+                                        <li>* Un lieu accessible a tout les sportif</li>
+                                        <li>* Un club labelise dans la ville de kisangani</li>
+                                        <li>* Club mixte </li>
+                                        <hr>
+                                        <h3>Cours d'essai au club</h3>
+                                        <p>Au Club Kodokan Choc de kabondo, votre cours d'essai est gratuit.
+                                            <ul>
+                                                <li>* Peu importe le cours que vous souhaitez integrer,vous pouvez nous rejoindre pour essayer</li>
+                                                <li>* Un kimono peut vous etre prete sur place</li>
+                                                <li>* Le cours d'essai vous permet de decouvrir l'ambiance du club sans engagement</li>
+                                                <li>* Si l'activite vous plait pendant la période d'essai,vous pourrez vous inscrire(Le formulaire d'inscription est donne sur place)</li>
+                                            </ul>
+                                        </p>
+                                    </ul>
+                                </p>
+                            </div>
+
+                            <div class="card-header bd-none">
+                                <a class="card-title collapsed" data-toggle="collapse" data-parent="#faq" href="#collapse4">
+                                    Les valeurs de notre club
+                                </a>
+                            </div>
+                            <div id="collapse4" class="card-block collapse">
+                                    <ol>
+                                        <li>Le respect </li>
+                                        <li>L'integrite et la modestie</li>
+                                        <li>La diversite et l'inclusion</li>
+                                        <li>La discipline et la perseverance</li>
+                                        <li>L'honneur et le courage</li>
+                                    </ol>
+                            </div>
+                            
+                            <div class="card-header">
+                                <a class="card-title collapsed" data-toggle="collapse" data-parent="#faq" href="#collapse3">
+                                    Horaires d'entrainement
+                                </a>
+                            </div>
+                            <div id="collapse3" class="card-block collapse">
+                                <p>
+                                    L'entrainement se deroule presque chaque jours, a partir de 16h30. On a deux grand club dans la zone,un vers pk6
+                                    et l'autre vers Artisanal dans l'ecole la creshe.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- About us end -->
+
+<!-- agent start -->
+<center>
+<div class="agent content-area-2">
+</div >
+</center>
+<!-- agent end -->
+
+<!-- Counters start -->
+
+<!-- Counters end -->
+
+<!-- Testimonial 3 start -->
+
+<!-- Testimonial 3 end -->
+
+<!-- Footer start -->
+<?php include('include/footer.php');?>
